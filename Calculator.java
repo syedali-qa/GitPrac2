@@ -5,6 +5,8 @@ public class SimpleCalculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+        System.out.println("Hello Guys");
+
         System.out.println("=== Simple Calculator ===");
         System.out.print("Enter first number: ");
         double num1 = scanner.nextDouble();
